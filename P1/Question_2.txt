@@ -1,0 +1,93 @@
+Genders - Gen Pop
+
+Men = 26
+Women = 24
+
+Genders - Incidentals
+
+Men = 16
+Women = 10
+
+
+Genres - Gen Pop
+
+Action = 18
+Comedy = 12
+Drama = 20
+
+
+Genres - Incidentals 
+
+Action = 14
+Comedy = 2
+Drama = 10
+
+
+Avg Income:
+
+General = 42300.0
+Incidental = 41000.0
+
+
+Avg Age:
+
+General = 31.56
+Incidental = 29.1153846154
+
+Avg Rentals:
+
+General = 26.32
+Incidentals = 29.3846153846
+
+Avg Rentals Per Visit:
+
+General = 2.748
+Incidentals = 2.81538
+
+
+The average income of those buying incidentals is slightly less than that of the 
+general population.  Those that buy incidentals rent more movies over the 
+course of the year but the rentals per visit is about the same for both groups.
+According to the data, those buying incidentals show a preference for Action movies. Although
+comedies were rented the least amongst both group, the incidentals group showed a greater
+disparity in the rental of comedies. 
+
+From the data, the gender distribution for the general population is 26 men and 24 women and
+the gender distribution for those buying incidentals is 16 men and 10 women.  This shows that
+the percentage of the general male population that buys incidentals is much greater than the
+percentage of the general female population that buys them, namely, 62% (16/26)
+verses 42% (10/24).
+
+Given the above analysis, male customers renting Action and Drama films should be targeted for 
+the purchase of incidentals.
+
+
+16/26 = .6154
+10/24 = .4167
+ 
+
+Stats on customers in general:
+
+Average income:  42300.0
+Average age:  31.56
+Average rentals:  26.32
+Average of average rentals per visit:  2.748
+
+Std dev of income:  21194.6
+Std dev of age:  11.8796632949
+Std dev of rentals:  9.94674
+Std dev of average rentals per visit:  0.889098419749
+
+Stats on customers buying incidentals:
+
+Average income:  41000.0
+Average age:  29.1153846154
+Average rentals:  29.3846153846
+Average of average number rentals per visit:  2.81538
+
+Std dev of income:  21294.6
+Std dev of age:  10.6638386907
+Std dev of number of rentals:  9.51143814685
+Std dev of average number rentals per visit:  0.768461
+
+
